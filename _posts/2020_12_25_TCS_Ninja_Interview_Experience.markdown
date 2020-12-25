@@ -39,9 +39,6 @@ tags:   [InterviewExperience, TCS Ninja]
   - [Geeksforgeeks](https://www.geeksforgeeks.org/tag/tcs-coding-questions/)
   - [Hackerearth](www.hackerearth.com)
 <br>
-<hr>
-
-
 
 <hr>
 ## Personal Experiences #1: 
