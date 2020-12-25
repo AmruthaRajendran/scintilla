@@ -12,7 +12,7 @@ tags:   [InterviewExperience, TCS Ninja]
 
 **Company :** Tata Consultancy Service(TCS)<br>
 **Company Type :** IT,Digital and Bussiness Services<br>
-**Package :** 3.6LPA<br>
+**Package :** 3.36LPA<br>
 **Website :** [www.tcs.com](www.tcs.com)<br>
 **Recruitment Type :** On Campus <br>
 **Average Difficulty (out of
@@ -20,7 +20,7 @@ tags:   [InterviewExperience, TCS Ninja]
 **Mode of Exam:** Online <br>
 **Date of Exam :** 23,24,25 October 2020 <br>
 **Number of stages :** 2 <br> 
-- **Stage 1 - General Test (NQT)**
+- **Stage 1 - General Test : National Qualifier Test(NQT)**
 	- Duration : 3hr
 	- Platform : TCS NQT
 	- Sections :  Numerical Ability, Verbal Section, Reasoning, Programming MCQs, Coding (2 question) 
