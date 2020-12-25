@@ -20,7 +20,7 @@ tags:   [InterviewExperience, TCS Ninja]
 **Mode of Exam:** Online <br>
 **Date of Exam :** 23,24,25 October 2020 <br>
 **Number of stages :** 2 <br> 
-- **Stage 1 - General Test (NQT)**
+- **Stage 1 - General Test National Qualifier Test(NQT)**
 	- Duration : 3hr
 	- Platform : TCS NQT
 	- Sections :  Numerical Ability, Verbal Section, Reasoning, Programming MCQs, Coding (2 question) 
